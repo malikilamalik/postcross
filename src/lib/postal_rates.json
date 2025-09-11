@@ -1,0 +1,486 @@
+[
+  {
+    "country": "Afghanistan",
+    "code": "AF",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 7000,
+        "weight_21g_to_50g": 16000,
+        "weight_51g_to_100g": 32000,
+        "weight_101g_to_250g": 78000,
+        "weight_251g_to_500g": 132000,
+        "weight_501g_to_1000g": 263000,
+        "weight_1001g_to_1500g": 394000,
+        "weight_1501g_to_2000g": 525000
+      }
+    },
+    "postcard": 7000,
+    "mbag_per_kg_to_30kg": 252000,
+    "package_rates_usd": {
+      "first_3kg": 65.14,
+      "per_kg_after": 14.40
+    }
+  },
+  {
+    "country": "Albania",
+    "code": "AL",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 17000,
+        "weight_51g_to_100g": 34000,
+        "weight_101g_to_250g": 85000,
+        "weight_251g_to_500g": 144000,
+        "weight_501g_to_1000g": 288000,
+        "weight_1001g_to_1500g": 432000,
+        "weight_1501g_to_2000g": 576000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 278000,
+    "package_rates_usd": {
+      "first_3kg": 73.42,
+      "per_kg_after": 13.74
+    }
+  },
+  {
+    "country": "Algeria",
+    "code": "DZ",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 21000,
+        "weight_51g_to_100g": 42000,
+        "weight_101g_to_250g": 104000,
+        "weight_251g_to_500g": 183000,
+        "weight_501g_to_1000g": 365000,
+        "weight_1001g_to_1500g": 620000,
+        "weight_1501g_to_2000g": 827000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 358000,
+    "package_rates_usd": {
+      "first_3kg": 49.18,
+      "per_kg_after": 13.02
+    }
+  },
+  {
+    "country": "Andorra",
+    "code": "AD",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 12000,
+        "weight_21g_to_50g": 29000,
+        "weight_51g_to_100g": 57000,
+        "weight_101g_to_250g": 142000,
+        "weight_251g_to_500g": 284000,
+        "weight_501g_to_1000g": 568000,
+        "weight_1001g_to_1500g": 852000,
+        "weight_1501g_to_2000g": 1135000
+      }
+    },
+    "postcard": 12000,
+    "mbag_per_kg_to_30kg": 512000,
+    "package_rates_usd": {
+      "first_3kg": null,
+      "per_kg_after": null
+    }
+  },
+  {
+    "country": "Angola",
+    "code": "AO",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 23000,
+        "weight_51g_to_100g": 46000,
+        "weight_101g_to_250g": 113000,
+        "weight_251g_to_500g": 200000,
+        "weight_501g_to_1000g": 402000,
+        "weight_1001g_to_1500g": 603000,
+        "weight_1501g_to_2000g": 804000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 397000,
+    "package_rates_usd": {
+      "first_3kg": 91.32,
+      "per_kg_after": 20.20
+    }
+  },
+  {
+    "country": "Anguilla",
+    "code": "AI",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 11000,
+        "weight_21g_to_50g": 27000,
+        "weight_51g_to_100g": 54000,
+        "weight_101g_to_250g": 134000,
+        "weight_251g_to_500g": 242000,
+        "weight_501g_to_1000g": 484000,
+        "weight_1001g_to_1500g": 726000,
+        "weight_1501g_to_2000g": 967000
+      }
+    },
+    "postcard": 11000,
+    "mbag_per_kg_to_30kg": 482000,
+    "package_rates_usd": {
+      "first_3kg": 90.96,
+      "per_kg_after": 24.48
+    }
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "code": "AG",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 11000,
+        "weight_21g_to_50g": 27000,
+        "weight_51g_to_100g": 54000,
+        "weight_101g_to_250g": 134000,
+        "weight_251g_to_500g": 244000,
+        "weight_501g_to_1000g": 487000,
+        "weight_1001g_to_1500g": 730000,
+        "weight_1501g_to_2000g": 974000
+      }
+    },
+    "postcard": 11000,
+    "mbag_per_kg_to_30kg": 485000,
+    "package_rates_usd": {
+      "first_3kg": 81.93,
+      "per_kg_after": 20.94
+    }
+  },
+  {
+    "country": "Argentina",
+    "code": "AR",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 20000,
+        "weight_51g_to_100g": 39000,
+        "weight_101g_to_250g": 98000,
+        "weight_251g_to_500g": 170000,
+        "weight_501g_to_1000g": 340000,
+        "weight_1001g_to_1500g": 510000,
+        "weight_1501g_to_2000g": 680000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 331000,
+    "package_rates_usd": {
+      "first_3kg": 53.64,
+      "per_kg_after": 13.90
+    }
+  },
+  {
+    "country": "Armenia",
+    "code": "AM",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 16000,
+        "weight_51g_to_100g": 32000,
+        "weight_101g_to_250g": 80000,
+        "weight_251g_to_500g": 135000,
+        "weight_501g_to_1000g": 270000,
+        "weight_1001g_to_1500g": 407000,
+        "weight_1501g_to_2000g": 542000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 260000,
+    "package_rates_usd": {
+      "first_3kg": 87.70,
+      "per_kg_after": 17.60
+    }
+  },
+  {
+    "country": "Aruba",
+    "code": "AW",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 22000,
+        "weight_51g_to_100g": 44000,
+        "weight_101g_to_250g": 110000,
+        "weight_251g_to_500g": 195000,
+        "weight_501g_to_1000g": 389000,
+        "weight_1001g_to_1500g": 583000,
+        "weight_1501g_to_2000g": 778000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 382000,
+    "package_rates_usd": {
+      "first_3kg": 84.17,
+      "per_kg_after": 21.56
+    }
+  },
+  {
+    "country": "Ascension",
+    "code": "AC",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 8000,
+        "weight_21g_to_50g": 20000,
+        "weight_51g_to_100g": 40000,
+        "weight_101g_to_250g": 99000,
+        "weight_251g_to_500g": 197000,
+        "weight_501g_to_1000g": 394000,
+        "weight_1001g_to_1500g": 590000,
+        "weight_1501g_to_2000g": 787000
+      }
+    },
+    "postcard": 8000,
+    "mbag_per_kg_to_30kg": 331000,
+    "package_rates_usd": {
+      "first_3kg": null,
+      "per_kg_after": null
+    }
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 6000,
+        "weight_21g_to_50g": 13000,
+        "weight_51g_to_100g": 26000,
+        "weight_101g_to_250g": 65000,
+        "weight_251g_to_500g": 104000,
+        "weight_501g_to_1000g": 208000,
+        "weight_1001g_to_1500g": 312000,
+        "weight_1501g_to_2000g": 416000
+      }
+    },
+    "postcard": 6000,
+    "mbag_per_kg_to_30kg": 196000,
+    "package_rates_usd": {
+      "first_3kg": 39.53,
+      "per_kg_after": 9.20
+    }
+  },
+  {
+    "country": "Austria",
+    "code": "AT",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 15000,
+        "weight_51g_to_100g": 29000,
+        "weight_101g_to_250g": 68000,
+        "weight_251g_to_500g": 135000,
+        "weight_501g_to_1000g": 215000,
+        "weight_1001g_to_1500g": 344000,
+        "weight_1501g_to_2000g": 429000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 202000,
+    "package_rates_usd": {
+      "first_3kg": 47.77,
+      "per_kg_after": 8.72
+    }
+  },
+  {
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 16000,
+        "weight_51g_to_100g": 32000,
+        "weight_101g_to_250g": 80000,
+        "weight_251g_to_500g": 135000,
+        "weight_501g_to_1000g": 270000,
+        "weight_1001g_to_1500g": 407000,
+        "weight_1501g_to_2000g": 542000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 260000,
+    "package_rates_usd": {
+      "first_3kg": 64.63,
+      "per_kg_after": 19.02
+    }
+  },
+  {
+    "country": "Bahamas",
+    "code": "BS",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 18000,
+        "weight_51g_to_100g": 36000,
+        "weight_101g_to_250g": 89000,
+        "weight_251g_to_500g": 155000,
+        "weight_501g_to_1000g": 305000,
+        "weight_1001g_to_1500g": 457000,
+        "weight_1501g_to_2000g": 609000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 294000,
+    "package_rates_usd": {
+      "first_3kg": 90.76,
+      "per_kg_after": 23.46
+    }
+  },
+  {
+    "country": "Bahrain",
+    "code": "BH",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 8000,
+        "weight_21g_to_50g": 19000,
+        "weight_51g_to_100g": 37000,
+        "weight_101g_to_250g": 92000,
+        "weight_251g_to_500g": 159000,
+        "weight_501g_to_1000g": 367000,
+        "weight_1001g_to_1500g": 550000,
+        "weight_1501g_to_2000g": 734000
+      }
+    },
+    "postcard": 8000,
+    "mbag_per_kg_to_30kg": 310000,
+    "package_rates_usd": {
+      "first_3kg": 39.86,
+      "per_kg_after": 8.90
+    }
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 6000,
+        "weight_21g_to_50g": 13000,
+        "weight_51g_to_100g": 25000,
+        "weight_101g_to_250g": 62000,
+        "weight_251g_to_500g": 100000,
+        "weight_501g_to_1000g": 197000,
+        "weight_1001g_to_1500g": 296000,
+        "weight_1501g_to_2000g": 394000
+      }
+    },
+    "postcard": 6000,
+    "mbag_per_kg_to_30kg": 185000,
+    "package_rates_usd": {
+      "first_3kg": 31.86,
+      "per_kg_after": 8.00
+    }
+  },
+  {
+    "country": "Barbados",
+    "code": "BB",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 22000,
+        "weight_51g_to_100g": 44000,
+        "weight_101g_to_250g": 110000,
+        "weight_251g_to_500g": 195000,
+        "weight_501g_to_1000g": 389000,
+        "weight_1001g_to_1500g": 583000,
+        "weight_1501g_to_2000g": 778000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 382000,
+    "package_rates_usd": {
+      "first_3kg": 54.68,
+      "per_kg_after": 11.34
+    }
+  },
+  {
+    "country": "Belarus",
+    "code": "BY",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 17000,
+        "weight_51g_to_100g": 33000,
+        "weight_101g_to_250g": 81000,
+        "weight_251g_to_500g": 138000,
+        "weight_501g_to_1000g": 275000,
+        "weight_1001g_to_1500g": 412000,
+        "weight_1501g_to_2000g": 549000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 264000,
+    "package_rates_usd": {
+      "first_3kg": 75.21,
+      "per_kg_after": 18.74
+    }
+  },
+  {
+    "country": "Belgium",
+    "code": "BE",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 19000,
+        "weight_51g_to_100g": 38000,
+        "weight_101g_to_250g": 93000,
+        "weight_251g_to_500g": 162000,
+        "weight_501g_to_1000g": 323000,
+        "weight_1001g_to_1500g": 484000,
+        "weight_1501g_to_2000g": 743000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 313000,
+    "package_rates_usd": {
+      "first_3kg": 61.30,
+      "per_kg_after": 14.06
+    }
+  },
+  {
+    "country": "Belize",
+    "code": "BZ",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 10000,
+        "weight_21g_to_50g": 18000,
+        "weight_51g_to_100g": 36000,
+        "weight_101g_to_250g": 89000,
+        "weight_251g_to_500g": 155000,
+        "weight_501g_to_1000g": 305000,
+        "weight_1001g_to_1500g": 457000,
+        "weight_1501g_to_2000g": 609000
+      }
+    },
+    "postcard": 10000,
+    "mbag_per_kg_to_30kg": 294000,
+    "package_rates_usd": {
+      "first_3kg": 65.16,
+      "per_kg_after": 13.32
+    }
+  },
+  {
+    "country": "Benin",
+    "code": "BJ",
+    "postal_rates": {
+      "letters": {
+        "weight_up_to_20g": 9000,
+        "weight_21g_to_50g": 21000,
+        "weight_51g_to_100g": 42000,
+        "weight_101g_to_250g": 104000,
+        "weight_251g_to_500g": 183000,
+        "weight_501g_to_1000g": 365000,
+        "weight_1001g_to_1500g": 620000,
+        "weight_1501g_to_2000g": 827000
+      }
+    },
+    "postcard": 9000,
+    "mbag_per_kg_to_30kg": 358000,
+    "package_rates_usd": {
+      "first_3kg": 77.31,
+      "per_kg_after": 15.00
+    }
+  }
+]
